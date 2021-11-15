@@ -25,9 +25,9 @@ The following **extensions** are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/QY908Ha.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-(if video cannot be accessed, here is a link: https://i.imgur.com/QY908Ha.mp4)
-
 GIF created with [EZGif](https://ezgif.com), video cropped with [Clideo](https://clideo.com).
+
+If video cannot be accessed, here is a link: https://i.imgur.com/QY908Ha.mp4.
 
 ## Notes
 
